@@ -7,6 +7,6 @@ public class Main {
         System.out.println("Hello Sunshine");
         int getal = 0;
         //type          maam              //waarde -> object
-        LoginController loginController = new loginController();
+        LoginController loginController = new LoginController();
     }
 }
